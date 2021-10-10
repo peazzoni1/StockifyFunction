@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C523C273-19AE-4FC8-969A-BC59F5C9DDD7}|Default">
+  <MonoDevelop.Ide.ItemProperties.StockifyFunction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StockifyFunction/local.settings.json">
+    <Files>
+      <File FileName="StockifyFunction/StockifyFunction.cs" Line="26" Column="1" />
+      <File FileName="StockifyFunction/Stockify.Models/BestBuyXboxPage.cs" Line="11" Column="1" />
+      <File FileName="StockifyFunction/Stockify.Models/ProductPage.cs" Line="10" Column="6" />
+      <File FileName="StockifyFunction/Stockify.Models/Page.cs" Line="6" Column="28" />
+      <File FileName="StockifyFunction/local.settings.json" Line="5" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StockifyFunction" expanded="True">
+            <Node name="StockifyFunction" expanded="True">
+              <Node name="Stockify.Models" expanded="True" />
+              <Node name="local.settings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
